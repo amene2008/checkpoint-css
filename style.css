@@ -1,0 +1,11 @@
+ .paragraph {
+ font-size: 50px;
+ font-family: Roboto;
+ line-height: 62px;
+}
+.index-p {
+ color :red    
+}
+.index-intro {
+ color:blue;   
+}
